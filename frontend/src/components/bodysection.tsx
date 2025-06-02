@@ -2,7 +2,6 @@
 
 import { ChevronDown } from "lucide-react"
 import { localGeorgia, localGotham } from "@/app/fonts"
-import Link from "next/link"
 import StyledImage from "./styled-image"
 import React from "react"
 import BackgroundLines from "@/components/BackgroundLines"
@@ -39,7 +38,7 @@ export default function BodySection() {
           {/* Description paragraph */}
           <p className={`text-[#5D5D5D] text-lg max-w-lg mb-16 ${localGeorgia.className} animate-fade-in-delay-2`}>
             An IT student dedicated to applying all acquired knowledge and skills in Information Technology to help
-            achieve the company's goals and contribute to system improvement.
+            achieve the company&apos;s goals and contribute to system improvement.
           </p>
 
           {/* Scroll down button */}

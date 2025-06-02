@@ -1,5 +1,4 @@
 import React from "react";
-import { localGeorgia } from "@/app/fonts";
 
 interface VerticalTickerProps {
   children: React.ReactNode;

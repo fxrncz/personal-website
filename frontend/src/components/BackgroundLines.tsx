@@ -1,6 +1,4 @@
-const NUM_LINES = 6;
-const SPACING = 20; // percent spacing between lines
-
+ // percent spacing between lines
 const zigzagPoints = [
   // Original three lines with adjusted y-coordinates
   "0,20 33,40 66,0 100,20 133,40 166,0 200,20", // Top line: wide V
